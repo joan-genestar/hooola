@@ -1,0 +1,17 @@
+body {
+  margin-top: 50px;
+  margin-bottom: 40px;
+  margin-right: 60px;
+  margin-left: 60px;
+}
+h1 {color:brown;}
+h2 {color:lightblue;}
+h3 {color:red;}
+h4 {color:blue;}
+h5 {color:green;}
+h6 {color:pink;}
+
+div {background-color:#9CFBE4;}
+
+ul {background-color:#FC79FC;}
+ol {background-color:#A6E834;}
